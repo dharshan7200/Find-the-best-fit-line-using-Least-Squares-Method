@@ -1,4 +1,5 @@
 # Implementation of Univariate Linear Regression
+
 ## AIM:
 To implement univariate Linear Regression to fit a straight line using least squares.
 
@@ -51,9 +52,7 @@ plt.show()
 ```
 
 ## Output:
-
 ![Screenshot 2024-08-19 082705](https://github.com/user-attachments/assets/ed1761ba-310a-4bda-8b6d-01ef0a6de3e7)
-
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
